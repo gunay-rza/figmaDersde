@@ -1,0 +1,232 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+
+}
+
+.umumi {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.basliq {
+    display: flex;
+    padding: 50px;
+    margin: 0 auto;
+    gap: 60px;
+}
+
+.atag {
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+
+
+
+}
+
+h2 {
+    width: 150px;
+    height: 50px;
+    background-color: red;
+    color: white;
+    margin-left: 60px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    transition: 0.5s;
+
+}
+
+h2:hover {
+    background-color: rgb(234, 112, 31);
+    transform: scale(1);
+}
+
+.atag a {
+    margin-left: 40px;
+    margin-right: 80px;
+    color: black;
+    transition: 0.5s;
+}
+
+.atag a:hover {
+    border-bottom: 1px solid black;
+    transform: scale(1);
+}
+
+
+.sol {
+    display: block;
+    margin-right: 100px;
+}
+
+.orta {
+    padding-top: 60px;
+    display: flex;
+    gap: 150px;
+    margin: 0 auto;
+    width: 90%;
+
+}
+
+.sol h1 {
+    font-size: 80px;
+    text-align: left;
+
+}
+
+.sol p {
+    text-align: left;
+    color: grey;
+    line-height: 20px;
+}
+
+.GetDown {
+    display: flex;
+    gap: 70px;
+    margin-top: 50px;
+
+}
+
+.GetDown h2 {
+    background-color: rgb(78, 78, 232);
+    width: 180px;
+    justify-content: left;
+    margin-left: 0;
+}
+
+.logolar {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    gap: 80px;
+    margin-top: 40px;
+    justify-content: space-around;
+}
+
+.oqlan2 {
+    width: 80%;
+    display: flex;
+    gap: 120px;
+    padding-left: 80px;
+    padding-top: 90px;
+    margin-left: 70px;
+    justify-content: space-around;
+}
+
+.subIndex {
+    display: block;
+    gap: 70px;
+    margin-top: 50px;
+
+    width: 700px;
+    padding-left: 60px;
+}
+
+.subIndex h2 {
+    background-color: white;
+    font-size: 80px;
+    color: black;
+    margin-bottom: 40px;
+    justify-content: left;
+}
+
+.subIndex p {
+    color: gray;
+    margin-top: 100px;
+    padding-top: 50px;
+    text-align: left;
+    margin-bottom: 30px;
+    margin-left: 66px;
+
+}
+
+.subIndex a {
+    color: rgb(99, 99, 212);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 66px;
+}
+
+.oqlan3 {
+    padding-top: 60px;
+    display: flex;
+    gap: 150px;
+    margin: 0 auto;
+    width: 90%;
+    margin-top: 40px;
+    margin-bottom: 70px;
+
+}
+
+.indep {
+    display: block;
+    margin-right: 100px;
+    margin-top: 170px;
+    width: 700px;
+    position: relative;
+
+
+}
+
+
+.indep h2 {
+    width: 600px;
+    font-size: 60px;
+    background-color: white;
+    color: black;
+    justify-content: left;
+    height: 100px;
+}
+
+.indep p {
+    line-height: 20px;
+    text-align: left;
+    color: grey;
+    line-height: 30px;
+    position: absolute;
+    top: 110px;
+    left: 140px;
+
+}
+
+.indep a {
+    position: absolute;
+    top: 190px;
+    left: 140px;
+    font-size: 30px;
+}
+
+.son {
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.kart {
+    display: block;
+    margin-bottom: 30px;
+}
+
+.kart h2 {
+    color: black;
+    background-color: white;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+.kart p {
+    color: gray;
+}
+
+.pricinig {
+    display: flex;
+    margin-top: 80px;
+    width: 75%;
+    margin-left: 100px;
+    padding-left: 250px;
+    margin-bottom: 60px;
+}
